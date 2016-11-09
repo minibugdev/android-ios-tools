@@ -15,7 +15,15 @@ Move to GitHub to make it easier for people to contribute.
 ------------------------------------------------------|----------------------------------------------------------
  [Xcode](https://developer.apple.com/xcode/)          | [Android Studio](https://developer.android.com/studio/index.html)
                                                       | ~~[Eclipse ADT](http://android-developers.blogspot.com/2016/11/support-ended-for-eclipse-android.html)~~ (** Support Ended for Eclipse Android Developer Tools)
- 
+
+
+## Dependency Manager and Build Tools
+ iOS                                                          | Android
+--------------------------------------------------------------|----------------------------------------------------------
+ [Swift Package Manager](https://swift.org/package-manager/)  | [Gradle](https://gradle.org/getting-started-android-build/)
+ [Carthage](https://github.com/Carthage/Carthage)             |
+ [CocoaPods](https://cocoapods.org/)                          |
+
 
 ## Network Communication
 #### 1. HTTP / REST Communication
@@ -30,6 +38,7 @@ Move to GitHub to make it easier for people to contribute.
 ------------------------------------------------------|----------------------------------------------------------
  [SDWebImage](https://github.com/rs/SDWebImage)       | [Glide](https://github.com/bumptech/glide) 
  [Kingfisher](https://github.com/onevcat/Kingfisher)  | [Picasso](https://github.com/square/picasso)
+ [Nuke](https://github.com/kean/Nuke)                 |
  
 #### 3. MQTT (Message Queue)
  iOS                                                  | Android
@@ -55,8 +64,8 @@ Move to GitHub to make it easier for people to contribute.
  [Ono (斧)](https://github.com/mattt/Ono)             | 
  [Fuzi (斧子)](https://github.com/cezheng/Fuzi)        | 
 
+
 ## Logging
- 
   iOS                                                 | Android
 ------------------------------------------------------|----------------------------------------------------------
  [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack)| [Timber](https://github.com/JakeWharton/timber)

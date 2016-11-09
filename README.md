@@ -32,7 +32,7 @@ Inspired by [blog.autsoft.hu](https://blog.autsoft.hu/the-android-and-ios-altern
 #### 3. MQTT (Message Queue)
  iOS                                                  | Android
 ------------------------------------------------------|----------------------------------------------------------
- [Paho](https://www.eclipse.org/paho/clients/android/)| [Moscapsule](https://github.com/flightonary/Moscapsule)
+ [Moscapsule](https://github.com/flightonary/Moscapsule)              | [Paho](https://www.eclipse.org/paho/clients/android/)
  
 #### 4. TCP/IP, UDP
  iOS                                                  | Android

@@ -1,6 +1,13 @@
 ## The Android &amp; iOS Alternative Library and Tool Collection
 Inspired by [blog.autsoft.hu](https://blog.autsoft.hu/the-android-and-ios-alternative-library-collection)
 
+## Programming Language
+ iOS                                                  | Android
+------------------------------------------------------|----------------------------------------------------------
+ [Swift](https://developer.apple.com/swift/)                      | [Kotlin](https://kotlinlang.org/)
+ [Objective-C](https://developer.apple.com/reference/objectivec)  | [Java](https://www.java.com/en/)
+
+
 ## IDE
  iOS                                                  | Android
 ------------------------------------------------------|----------------------------------------------------------

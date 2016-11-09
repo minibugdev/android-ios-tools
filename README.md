@@ -83,7 +83,7 @@ I thought that it is much better to make them available here so they could be co
                                                       | [Couchbase Mobile](http://www.couchbase.com/nosql-databases/couchbase-mobile)
                                                       | [Icepick](https://github.com/frankiesardo/icepick) (save&restore instance state)
 
-#### 2. Key-value storage / NoSQL
+#### 2. ORM
  iOS                                                  | Android
 ------------------------------------------------------|----------------------------------------------------------
  [MagicalRecord](https://github.com/magicalpanda/MagicalRecord)   | [SugarORM](http://satyan.github.io/sugar/index.html)

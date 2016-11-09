@@ -22,7 +22,7 @@ I thought that it is much better to make them available here so they could be co
  iOS                                                          | Android
 --------------------------------------------------------------|----------------------------------------------------------
  [Swift Package Manager](https://swift.org/package-manager/)  | [Gradle](https://gradle.org/getting-started-android-build/)
- [Carthage](https://github.com/Carthage/Carthage)             |
+ [Carthage](https://github.com/Carthage/Carthage)             | [Buck](https://buckbuild.com/)
  [CocoaPods](https://cocoapods.org/)                          |
 
 

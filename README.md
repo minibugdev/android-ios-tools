@@ -131,11 +131,6 @@ Move to GitHub to make it easier for people to contribute.
 ------------------------------------------------------|----------------------------------------------------------
                                                       | [Android Saripaar](https://github.com/ragunathjawahar/android-saripaar)
 
-#### 7. Other
- iOS                                                  | Android
-------------------------------------------------------|----------------------------------------------------------
-                                                      | [SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout)
-
 
 ## Debugging
  iOS                                                  | Android

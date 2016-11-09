@@ -57,7 +57,8 @@ I thought that it is much better to make them available here so they could be co
  iOS                                                       | Android
 -----------------------------------------------------------|----------------------------------------------------------
  [Argo](https://github.com/Alamofire/Alamofire)            | [Gson](https://github.com/google/gson)
- [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) | 
+ [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) | [Jackson JSON](http://wiki.fasterxml.com/JacksonHome)
+                                                           | [IG JSON Parser](https://github.com/Instagram/ig-json-parser)
                                                       
 #### 2. XML
  iOS                                                  | Android

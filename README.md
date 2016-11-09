@@ -1,7 +1,8 @@
 ## The Android &amp; iOS Alternative Library and Tool Collection
 Inspired by [blog.autsoft.hu](https://blog.autsoft.hu/the-android-and-ios-alternative-library-collection)
 
-Move to GitHub to make it easier for people to contribute.
+Unfortunately, I though that it is much better to make them available here so they could be contributed by any contributor which being in github community.
+#### Let's get started !!
 
 ## Programming Language
  iOS                                                  | Android

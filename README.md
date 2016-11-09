@@ -5,7 +5,7 @@ Inspired by [blog.autsoft.hu](https://blog.autsoft.hu/the-android-and-ios-altern
  iOS                                                  | Android
 ------------------------------------------------------|----------------------------------------------------------
  [Xcode](https://developer.apple.com/xcode/)          | [Android Studio](https://developer.android.com/studio/index.html)
-                                                      | ~~[Eclipse](http://android-developers.blogspot.com/2016/11/support-ended-for-eclipse-android.html) (** Support Ended for Eclipse Android Developer Tools)~~
+                                                      | ~~[Eclipse ADT](http://android-developers.blogspot.com/2016/11/support-ended-for-eclipse-android.html)~~ (** Support Ended for Eclipse Android Developer Tools)
  
 
 ## Network Communication

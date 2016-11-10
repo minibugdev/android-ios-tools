@@ -57,7 +57,8 @@ I thought that it is much better to make them available here so they could be co
  iOS                                                       | Android
 -----------------------------------------------------------|----------------------------------------------------------
  [Argo](https://github.com/Alamofire/Alamofire)            | [Gson](https://github.com/google/gson)
- [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) | 
+ [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) | [Jackson JSON](http://wiki.fasterxml.com/JacksonHome)
+                                                           | [IG JSON Parser](https://github.com/Instagram/ig-json-parser)
                                                       
 #### 2. XML
  iOS                                                  | Android
@@ -160,8 +161,10 @@ I thought that it is much better to make them available here so they could be co
  [Specta](https://github.com/specta/specta)           | [Espresso](http://developer.android.com/training/testing/ui-testing/espresso-testing.html)
  [Quick](https://github.com/Quick/Quick)              | [Mckito](https://github.com/mockito/mockito)
  [KIF](https://github.com/kif-framework/KIF)          | [Awsome Android Testing](https://github.com/hotchemi/awesome-android-testing)
- [Subliminal](https://github.com/inkling/Subliminal)  |
- [Calabah](http://calaba.sh/)                         |
+ [Subliminal](https://github.com/inkling/Subliminal)  | 
+ [Calabash](https://github.com/calabash/calabash-ios) | [Calabash](https://github.com/calabash/calabash-android)
+ [Appium](http://appium.io/)                          | [Appium](http://appium.io/)
+ [FBSnapshotTestcase](https://github.com/facebook/ios-snapshot-test-case) |
 
 
 ## Programming

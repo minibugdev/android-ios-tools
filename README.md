@@ -90,6 +90,7 @@ I thought that it is much better to make them available here so they could be co
  [MagicalRecord](https://github.com/magicalpanda/MagicalRecord)   | [SugarORM](http://satyan.github.io/sugar/index.html)
                                                                   | [GreenDAO](https://github.com/greenrobot/greenDAO)
                                                                   | [ActiveAndroid](http://www.activeandroid.com/)
+                                                                  | [DBFlow](https://github.com/Raizlabs/DBFlow)
                                                                   
 #### 3. File management
  iOS                                                  | Android
@@ -195,6 +196,7 @@ I thought that it is much better to make them available here so they could be co
                                                       | [Mortar](https://github.com/square/mortar)
                                                       | [Flow](https://github.com/square/flow)
                                                       | [Device Year Class](https://github.com/facebook/device-year-class)
+                                                      | [Parceler](http://parceler.org/)
 
 #### 5. Date Formatters
  iOS                                                  | Android

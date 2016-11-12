@@ -160,7 +160,7 @@ I thought that it is much better to make them available here so they could be co
 ------------------------------------------------------|----------------------------------------------------------
  [Kiwi](https://github.com/kiwi-bdd/Kiwi)             | [Robolectric](http://robolectric.org/)
  [Specta](https://github.com/specta/specta)           | [Espresso](http://developer.android.com/training/testing/ui-testing/espresso-testing.html)
- [Quick](https://github.com/Quick/Quick)              | [Mckito](https://github.com/mockito/mockito)
+ [Quick](https://github.com/Quick/Quick)              | [Mockito](https://github.com/mockito/mockito)
  [KIF](https://github.com/kif-framework/KIF)          | [Awsome Android Testing](https://github.com/hotchemi/awesome-android-testing)
  [Subliminal](https://github.com/inkling/Subliminal)  | 
  [Calabash](https://github.com/calabash/calabash-ios) | [Calabash](https://github.com/calabash/calabash-android)

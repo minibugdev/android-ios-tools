@@ -15,7 +15,7 @@ I thought that it is much better to make them available here so they could be co
  iOS                                                  | Android
 ------------------------------------------------------|----------------------------------------------------------
  [Xcode](https://developer.apple.com/xcode/)          | [Android Studio](https://developer.android.com/studio/index.html)
-                                                      | ~~[Eclipse ADT](http://android-developers.blogspot.com/2016/11/support-ended-for-eclipse-android.html)~~ (** Support Ended for Eclipse Android Developer Tools)
+ &nbsp;                                               | ~~[Eclipse ADT](http://android-developers.blogspot.com/2016/11/support-ended-for-eclipse-android.html)~~ (** Support Ended for Eclipse Android Developer Tools)
 
 
 ## Dependency Manager and Build Tools
@@ -32,7 +32,7 @@ I thought that it is much better to make them available here so they could be co
 ------------------------------------------------------|----------------------------------------------------------
  [Alamofire](https://github.com/Alamofire/Alamofire)  | [OkHttp](https://github.com/square/okhttp)
  [Moya](https://github.com/Moya/Moya)                 | [Retrofit](http://square.github.io/retrofit/)
-                                                      | [Fuel](https://github.com/kittinunf/Fuel)
+ &nbsp;                                               | [Fuel](https://github.com/kittinunf/Fuel)
                                                       
 #### 2. Image Caching
  iOS                                                  | Android
@@ -50,6 +50,11 @@ I thought that it is much better to make them available here so they could be co
  iOS                                                  | Android
 ------------------------------------------------------|----------------------------------------------------------
  [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket) | [Kryonet](https://github.com/EsotericSoftware/kryonet)
+ 
+#### 5. GraphQL Client
+ iOS                                                  | Android
+------------------------------------------------------|----------------------------------------------------------
+ [Apollo iOS](https://github.com/apollographql/apollo-ios) | [Apollo Android](https://github.com/apollographql/apollo-android)
 
 
 ## Parsing
@@ -58,7 +63,8 @@ I thought that it is much better to make them available here so they could be co
 -----------------------------------------------------------|----------------------------------------------------------
  [Argo](https://github.com/Alamofire/Alamofire)            | [Gson](https://github.com/google/gson)
  [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) | [Jackson JSON](http://wiki.fasterxml.com/JacksonHome)
-                                                           | [IG JSON Parser](https://github.com/Instagram/ig-json-parser)
+ &nbsp;                                                    | [IG JSON Parser](https://github.com/Instagram/ig-json-parser)
+ &nbsp;                                                    | [Moshi](https://github.com/square/moshi)
                                                       
 #### 2. XML
  iOS                                                  | Android
@@ -71,7 +77,7 @@ I thought that it is much better to make them available here so they could be co
   iOS                                                 | Android
 ------------------------------------------------------|----------------------------------------------------------
  [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack)| [Timber](https://github.com/JakeWharton/timber)
-                                                                      | [Hugo](https://github.com/JakeWharton/hugo)
+ &nbsp;                                                               | [Hugo](https://github.com/JakeWharton/hugo)
 
 
 ## Persistence
@@ -79,24 +85,25 @@ I thought that it is much better to make them available here so they could be co
  iOS                                                  | Android
 ------------------------------------------------------|----------------------------------------------------------
  [Realm](https://realm.io/)                           | [Realm](https://realm.io/)
-                                                      | [Paper](https://github.com/pilgr/Paper)
-                                                      | [SnappyDB](https://github.com/nhachicha/SnappyDB)
-                                                      | [Couchbase Mobile](http://www.couchbase.com/nosql-databases/couchbase-mobile)
-                                                      | [Icepick](https://github.com/frankiesardo/icepick) (save&restore instance state)
+ &nbsp;                                               | [Paper](https://github.com/pilgr/Paper)
+ &nbsp;                                               | [SnappyDB](https://github.com/nhachicha/SnappyDB)
+ &nbsp;                                               | [Couchbase Mobile](http://www.couchbase.com/nosql-databases/couchbase-mobile)
+ &nbsp;                                               | [Icepick](https://github.com/frankiesardo/icepick) (save&restore instance state)
 
 #### 2. ORM
  iOS                                                  | Android
 ------------------------------------------------------|----------------------------------------------------------
  [MagicalRecord](https://github.com/magicalpanda/MagicalRecord)   | [SugarORM](http://satyan.github.io/sugar/index.html)
-                                                                  | [GreenDAO](https://github.com/greenrobot/greenDAO)
-                                                                  | [ActiveAndroid](http://www.activeandroid.com/)
-                                                                  | [DBFlow](https://github.com/Raizlabs/DBFlow)
+ &nbsp;                                                           | [GreenDAO](https://github.com/greenrobot/greenDAO)
+ &nbsp;                                                           | [ActiveAndroid](http://www.activeandroid.com/)
+ &nbsp;                                                           | [DBFlow](https://github.com/Raizlabs/DBFlow)
+ &nbsp;                                                           | [Room](https://developer.android.com/topic/libraries/architecture/room)
                                                                   
 #### 3. File management
  iOS                                                  | Android
 ------------------------------------------------------|----------------------------------------------------------
-                                                      | [Android Simple Storage](https://github.com/sromku/android-simple-storage)
-                                                      | [Android External File Writer](https://github.com/PrashamTrivedi/AndroidExternalFileWriter)
+ &nbsp;                                               | [Android Simple Storage](https://github.com/sromku/android-simple-storage)
+ &nbsp;                                               | [Android External File Writer](https://github.com/PrashamTrivedi/AndroidExternalFileWriter)
 
 
 ## User Interface
@@ -109,14 +116,14 @@ I thought that it is much better to make them available here so they could be co
  iOS                                                  | Android
 ------------------------------------------------------|----------------------------------------------------------
  [AFViewShaker](https://github.com/ArtFeel/AFViewShaker)          | [Circular Tools](https://github.com/AutSoft/CircularTools)
-                                                                  | [Android View Animations](https://github.com/daimajia/AndroidViewAnimations)
+ &nbsp;                                                           | [Android View Animations](https://github.com/daimajia/AndroidViewAnimations)
                                                                   
 #### 3. Charts
  iOS                                                  | Android
 ------------------------------------------------------|----------------------------------------------------------
  [iOS Charts](https://github.com/danielgindi/ios-charts)          | [MP Android Chart](https://github.com/PhilJay/MPAndroidChart)
-                                                                  | [Android Charts](https://github.com/dacer/AndroidCharts)
-                                                                  | [AChartEngine](https://github.com/ddanny/achartengine)
+ &nbsp;                                                           | [Android Charts](https://github.com/dacer/AndroidCharts)
+ &nbsp;                                                           | [AChartEngine](https://github.com/ddanny/achartengine)
 
 #### 4. Custom Menu
  iOS                                                  | Android
@@ -132,14 +139,14 @@ I thought that it is much better to make them available here so they could be co
 #### 6. Validation
  iOS                                                  | Android
 ------------------------------------------------------|----------------------------------------------------------
-                                                      | [Android Saripaar](https://github.com/ragunathjawahar/android-saripaar)
+ &nbsp;                                               | [Android Saripaar](https://github.com/ragunathjawahar/android-saripaar)
 
 
 ## Debugging
  iOS                                                  | Android
 ------------------------------------------------------|----------------------------------------------------------
  [FLEX](https://github.com/Flipboard/FLEX)            | [Stetho](https://github.com/facebook/stetho)
-                                                      | [LeakCanary](https://github.com/square/leakcanary)
+ &nbsp;                                               | [LeakCanary](https://github.com/square/leakcanary)
 
 
 ## Crash Reporting
@@ -173,7 +180,7 @@ I thought that it is much better to make them available here so they could be co
  iOS                                                  | Android
 ------------------------------------------------------|----------------------------------------------------------
  [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus)    | [EventBus](https://github.com/greenrobot/EventBus)
-                                                                    | [Otto](https://github.com/square/otto)
+ &nbsp;                                                             | [Otto](https://github.com/square/otto)
 
 #### 2. Dependency Injection
  iOS                                                  | Android
@@ -189,25 +196,25 @@ I thought that it is much better to make them available here so they could be co
 #### 4. Util libs
  iOS                                                  | Android
 ------------------------------------------------------|----------------------------------------------------------
-                                                      | [ButterKnife](http://jakewharton.github.io/butterknife/) (View Injection)
-                                                      | [Android Annotation](https://github.com/excilys/androidannotations)
-                                                      | [Guava](https://github.com/google/guava)
-                                                      | [Greenrobot Common](https://github.com/greenrobot/greenrobot-common)
-                                                      | [Mortar](https://github.com/square/mortar)
-                                                      | [Flow](https://github.com/square/flow)
-                                                      | [Device Year Class](https://github.com/facebook/device-year-class)
-                                                      | [Parceler](http://parceler.org/)
+ &nbsp;                                               | [ButterKnife](http://jakewharton.github.io/butterknife/) (View Injection)
+ &nbsp;                                               | [Android Annotation](https://github.com/excilys/androidannotations)
+ &nbsp;                                               | [Guava](https://github.com/google/guava)
+ &nbsp;                                               | [Greenrobot Common](https://github.com/greenrobot/greenrobot-common)
+ &nbsp;                                               | [Mortar](https://github.com/square/mortar)
+ &nbsp;                                               | [Flow](https://github.com/square/flow)
+ &nbsp;                                               | [Device Year Class](https://github.com/facebook/device-year-class)
+ &nbsp;                                               | [Parceler](http://parceler.org/)
 
 #### 5. Date Formatters
  iOS                                                  | Android
 ------------------------------------------------------|----------------------------------------------------------
  [ISO 8601 Date Formatter](https://github.com/boredzo/iso-8601-date-formatter)  | [Joda Time](https://github.com/dlew/joda-time-android)
-                                                                                | [ThreeTenABP](https://github.com/JakeWharton/ThreeTenABP)
+ &nbsp;                                                                         | [ThreeTenABP](https://github.com/JakeWharton/ThreeTenABP)
 
 
 ## Tools and Collections
  iOS                                                  | Android
 ------------------------------------------------------|----------------------------------------------------------
  [Cocoa Controls](https://www.cocoacontrols.com/)     | [Awsome Android](http://snowdream.github.io/awesome-android/)
-                                                      | [Android Must Have Libraries](https://guides.codepath.com/android/Must-Have-Libraries)
-                                                      | [Android Arsenal](https://android-arsenal.com/)
+ &nbsp;                                               | [Android Must Have Libraries](https://guides.codepath.com/android/Must-Have-Libraries)
+ &nbsp;                                               | [Android Arsenal](https://android-arsenal.com/)

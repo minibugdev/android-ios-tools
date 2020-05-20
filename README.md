@@ -38,8 +38,8 @@ I thought that it is much better to make them available here so they could be co
  iOS                                                  | Android
 ------------------------------------------------------|----------------------------------------------------------
  [SDWebImage](https://github.com/rs/SDWebImage)       | [Glide](https://github.com/bumptech/glide) 
- [Kingfisher](https://github.com/onevcat/Kingfisher)  | [Picasso](https://github.com/square/picasso)
- [Nuke](https://github.com/kean/Nuke)                 |
+ [Kingfisher](https://github.com/onevcat/Kingfisher)  | [Coil](https://github.com/coil-kt/coil)
+ [Nuke](https://github.com/kean/Nuke)                 | [Picasso](https://github.com/square/picasso)
  
 #### 3. MQTT (Message Queue)
  iOS                                                  | Android
@@ -172,7 +172,8 @@ I thought that it is much better to make them available here so they could be co
  [Subliminal](https://github.com/inkling/Subliminal)  | 
  [Calabash](https://github.com/calabash/calabash-ios) | [Calabash](https://github.com/calabash/calabash-android)
  [Appium](http://appium.io/)                          | [Appium](http://appium.io/)
- [FBSnapshotTestcase](https://github.com/facebook/ios-snapshot-test-case) |
+ [FBSnapshotTestcase](https://github.com/facebook/ios-snapshot-test-case) |  [FBSnapshotTestcase](https://github.com/facebook/screenshot-tests-for-android)
+ &nbsp;                                               | [Kakao](https://github.com/agoda-com/Kakao)
 
 
 ## Programming
@@ -186,6 +187,9 @@ I thought that it is much better to make them available here so they could be co
  iOS                                                  | Android
 ------------------------------------------------------|----------------------------------------------------------
  [Typhoon](http://typhoonframework.org/)              | [Dagger 2](http://google.github.io/dagger/)
+ &nbsp;                                               | [Koin](https://insert-koin.io/)
+ &nbsp;                                               | [KODEIN DI](https://kodein.org/Kodein-DI/)
+ 
 
 #### 3. Reactive Programming
  iOS                                                  | Android

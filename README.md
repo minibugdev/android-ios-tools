@@ -26,6 +26,13 @@ I thought that it is much better to make them available here so they could be co
  [CocoaPods](https://cocoapods.org/)                          |
 
 
+## UI / Layout
+ iOS                                                          | Android
+--------------------------------------------------------------|----------------------------------------------------------
+ [Storyboard](https://developer.apple.com/tutorials/app-dev-training/creating-a-storyboard-app)  | [XML](https://developer.android.com/guide/topics/ui/declaring-layout)
+ [Swiftui](https://developer.apple.com/xcode/swiftui/)             | [Jetpack Compose](https://developer.android.com/jetpack/compose)                          |
+
+
 ## Network Communication
 #### 1. HTTP / REST Communication
  iOS                                                  | Android
